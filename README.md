@@ -3,7 +3,7 @@
 
 
 
-**Arab 'N' Famous Reality show 4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Arab 'N' Famous Reality show 4** 
 
 
 - 🔭 Hosted by a Audaamar and Arisha Ross Arab personality,
